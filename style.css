@@ -110,6 +110,14 @@ table td {
     font-size: 3rem;
 }
 
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
 /*
 .noto-sans-<uniquifier> {
     font-family: "Noto Sans", serif;
@@ -119,10 +127,4 @@ table td {
     font-variation-settings:"wdth" 100;
 }*/
 
-.material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 24
-}
+
