@@ -127,4 +127,10 @@ table td {
     font-variation-settings:"wdth" 100;
 }*/
 
+@media screen and (max-width: 650px) {
+    main {
+        width: 96vw;
+    }
+}
+
 
